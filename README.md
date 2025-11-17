@@ -49,4 +49,4 @@ Liste des versions : [Cliquer pour afficher](https://github.com/JosepaulBlulle/p
 * **Kilic Adis** _alias_ [@KilicAdis](https://github.com/KilicAdis)
 * **Kajic Mario** _alias_ [@maryok22](https://github.com/maryok22)
 * **Jose-Paul Blulle** _alias_ [@JosepaulBlulle](https://github.com/JosepaulBlulle)
-* **Ouail ALAMI** _alias_ [@ouailalami](https://github.com/ouailalami)
+* **Ouail ALAMI** _alias_ [@ouailalami](https://github.com/spikelee000)
